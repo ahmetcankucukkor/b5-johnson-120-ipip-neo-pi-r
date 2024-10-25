@@ -1,54 +1,54 @@
 module.exports = {
   plus: [
     {
-      text: 'deneme 123',
+      text: 'Çok Yanlış',
       score: 1,
       color: 1
     },
     {
-      text: 'Moderately Inaccurate',
+      text: 'Kısmen Yanlış',
       score: 2,
       color: 2
     },
     {
-      text: 'Neither Accurate Nor Inaccurate',
+      text: 'Ne Doğru Ne Yanlış',
       score: 3,
       color: 3
     },
     {
-      text: 'Moderately Accurate',
+      text: 'Kısmen Doğru',
       score: 4,
       color: 4
     },
     {
-      text: 'Very Accurate',
+      text: 'Çok Doğru',
       score: 5,
       color: 5
     }
   ],
   minus: [
     {
-      text: 'test deneme',
+      text: 'Çok Yanlış',
       score: 5,
       color: 1
     },
     {
-      text: 'Moderately Inaccurate',
+      text: 'Kısmen Yanlış',
       score: 4,
       color: 2
     },
     {
-      text: 'Neither Accurate Nor Inaccurate',
+      text: 'Ne Doğru Ne Yanlış',
       score: 3,
       color: 3
     },
     {
-      text: 'Moderately Accurate',
+      text: 'Kısmen Doğru',
       score: 2,
       color: 4
     },
     {
-      text: 'Very Accurate',
+      text: 'Çok Doğru',
       score: 1,
       color: 5
     }
